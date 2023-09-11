@@ -34,15 +34,15 @@ const projects = [
     livePreview: 'https://trackday.cc',
   },
   {
-    name: 'StreamCard, projet personnel',
+    name: 'StreamCard',
     description:
-        'StreamCard is an application that allows you to collect cards of internet personalities.',
+        'StreamCard is an application that allows you to collect cards of internet personalities. (personal project)',
     stack: ['React Native', 'Firebase'],
   },
   {
-    name: 'En cours, projet personnel',
+    name: 'In progress ',
     description:
-        'Development of an application designed to promote participation in cultural activities such as museums, exhibitions, and conferences through an engaging quest-based system.',
+        'Development of an application designed to promote participation in cultural activities such as museums, exhibitions, and conferences through an engaging quest-based system. (personal project)',
     stack: ['React Native', 'React', 'NestJs', 'Supabase'],
   },
 ]
